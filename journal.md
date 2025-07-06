@@ -4,6 +4,10 @@ The MacroWave is an annealing machine that evenly heats up 3D printed parts and 
 <h1>July 4th</h1>
 Today I made a BOM with an overall thought process of the design of the machine. It's got features like an easy to use touch screen, 4 bulbs, a heating pad, PWM control, sensors, and a rotating bed!
 
+![2025-07-04 14-34](https://github.com/user-attachments/assets/4bb91918-5d75-418a-a7cb-1282a1569e38)
+
+
+
 Total Time Spent: 3 Hours
 
 <h1>July 5th</h1>
