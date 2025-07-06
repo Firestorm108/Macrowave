@@ -9,12 +9,11 @@ Annealing is the process of heating something in a controlled way and cooling it
 
 <h1>Pictures!</h1>
 
-![CleanShot 2025-07-06 at 11 18 08](https://github.com/user-attachments/assets/ef3292cb-c982-4c77-a1b0-9aa1d2187b53)
+![Assembly v40](https://github.com/user-attachments/assets/96ba6657-4704-4985-aed6-d49fc6da6032)
 
+![CleanShot 2025-07-06 at 13 49 01](https://github.com/user-attachments/assets/6944bb38-9eb7-44a7-b28d-d11b921c79ef)
 
-![CleanShot 2025-07-06 at 11 16 58](https://github.com/user-attachments/assets/f1a1bda2-f936-433d-b6f2-9a90be53fba5)
-
-![CleanShot 2025-07-06 at 11 17 24](https://github.com/user-attachments/assets/b290f7bf-d0de-46b2-92aa-0e52f5f389a0)
+![CleanShot 2025-07-06 at 13 48 49](https://github.com/user-attachments/assets/3742120c-26ff-47f7-8c03-b47f6d027bf8)
 
 <h1>The PCB! (and schematic)</h1>
 
