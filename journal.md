@@ -53,4 +53,10 @@ After that, I finished the wiring diagram!
 
 I then finalized my README, BOM, uploaded my files, double checked prices, etc. It all looks good, I should be paying ~$30 out of pocket at the most optimized BOM.
 
+Updated the wiring diagram as well to add a switch for better control instead of touch. I also updated the CAD.
+
+![CleanShot 2025-07-06 at 12 40 23](https://github.com/user-attachments/assets/7e7ca5c0-8c3a-4a2c-a42e-8b50ed865b4f)
+
+![CleanShot 2025-07-06 at 12 40 57](https://github.com/user-attachments/assets/06e18e81-fd92-4e04-b5f4-49e9923c5400)
+
 Total Time Spent: ~3 Hours
