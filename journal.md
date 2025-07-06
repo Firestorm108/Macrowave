@@ -40,3 +40,8 @@ This morning, I started off by changing materials and getting some nice renders 
 ![Assembly v38 2](https://github.com/user-attachments/assets/d6e9d522-4e32-416a-8f2c-bca8a3315925)
 ![Assembly v38](https://github.com/user-attachments/assets/c92ed8fd-f76d-4dde-b816-7c331d9e7946)
 
+After that, I finished the wiring diagram!
+
+
+![CleanShot 2025-07-06 at 10 53 06](https://github.com/user-attachments/assets/f5e452c9-7482-4ada-b4c9-0a51477ddc32)
+
