@@ -25,34 +25,34 @@ Annealing is the process of heating something in a controlled way and cooling it
 ![CleanShot 2025-07-06 at 11 19 39](https://github.com/user-attachments/assets/d65fbcc0-0d0f-4dcb-9e85-6e9853a46e60)
 
 <h1>The BOM!</h1>
-## Bill of Materials
+Bill of Materials
 
 | Category                | Item                                                                                 | Price |
 |------------------------|----------------------------------------------------------------------------------------|-------|
-| **   Frame**           | Regular PETG *(Already Owned)*                                                       | $0    |
+|      Frame             | Regular PETG *(Already Owned)*                                                       | $0    |
 |                        | [12mm x 305mm Steel Rods](https://www.amazon.com/uxcell-Stainless-Steel-305mm-Working/dp/B0DKXSZ9M8/) | $17   |
 |                        | [150mm Aluminum Disc](https://www.amazon.com/uxcell-Aluminum-Diameter-Thickness-Stamping/dp/B0DQ8H1FZG/) | $7    |
-| **   Control**         | [12V → 5V Buck Converter](https://www.aliexpress.us/item/3256808220206305.html)       | $4    |
+|      Control           | [12V → 5V Buck Converter](https://www.aliexpress.us/item/3256808220206305.html)       | $4    |
 |                        | [Raspberry Pi Pico (SMD)](https://www.aliexpress.us/item/3256806910537897.html)       | $4    |
 |                        | [2.8" Touch Display](https://www.aliexpress.us/item/3256806437054690.html)           | $6    |
-| **   Mains Power**     | [Mains Plug](https://www.aliexpress.us/item/3256805500507047.html)                    | $6    |
+|      Mains Power       | [Mains Plug](https://www.aliexpress.us/item/3256805500507047.html)                    | $6    |
 |                        | [Fuses](https://www.aliexpress.us/item/3256806781121800.html)                         | $3    |
 |                        | [Connector Socket](https://www.aliexpress.us/item/2251832520633643.html)             | $2    |
 |                        | [12 AWG Wire](https://www.aliexpress.us/item/3256807619400327.html)                  | $4    |
-| **   Bed Movement**    | [12V 10A Power Supply](https://www.amazon.com/Universal-Regulated-Switching-Industrial-Transformer/dp/B0CCL86TGY/) | $16   |
+|      Bed Movement      | [12V 10A Power Supply](https://www.amazon.com/Universal-Regulated-Switching-Industrial-Transformer/dp/B0CCL86TGY/) | $16   |
 |                        | [5V 1-Channel Relay](https://www.aliexpress.us/item/3256805679282465.html)           | $4    |
 |                        | [10RPM 12V DC Motor](https://www.aliexpress.us/item/2251832801627453.html)           | $10   |
 |                        | [Slip Ring 2CH 5A](https://www.aliexpress.us/item/2251832799374262.html)             | $14   |
-| **   Bed Heating**     | [150mm Heating Pad](https://www.aliexpress.us/item/3256805151930305.html)            | $18   |
+|      Bed Heating       | [150mm Heating Pad](https://www.aliexpress.us/item/3256805151930305.html)            | $18   |
 |                        | [40A SSR](https://www.aliexpress.us/item/2251832734722079.html)                       | $4    |
 |                        | [DS18B20 Temp Probe](https://www.aliexpress.us/item/3256807353480124.html)          | $3    |
-| **   IR Heating**      | [Infrared Bulbs (2x)](https://www.amazon.com/REPTI-ZOO-Infrared-Reptile-Emitter/dp/B0B5W8XCNH/) | $18   |
+|      IR Heating        | [Infrared Bulbs (2x)](https://www.amazon.com/REPTI-ZOO-Infrared-Reptile-Emitter/dp/B0B5W8XCNH/) | $18   |
 |                        | [40A SSR](https://www.aliexpress.us/item/2251832734722079.html)                       | $4    |
 |                        | [DS18B20 Temp Probe](https://www.aliexpress.us/item/3256807353480124.html)          | $3    |
 |                        | [E26 Sockets](https://www.amazon.com/Ceramic-Standard-Medimun-Halogen-Incandescent/dp/B07FMRLSWC/) | $10   |
 |                        | [Socket Extenders](https://www.amazon.com/DiCUNO-Extension-All-Directional-Adjustable-Converter/dp/B078WJJ7VZ/) | $8    |
-| **❄  Cooling**         | [12V IP67 Cooling Fan](https://www.aliexpress.us/item/3256807400971120.html)         | $8    |
+|      Cooling           | [12V IP67 Cooling Fan](https://www.aliexpress.us/item/3256807400971120.html)         | $8    |
 |                        | [5V 1-Channel Relay](https://www.aliexpress.us/item/3256805679282465.html)           | $4    |
-| **   JLCPCB**          | PCB *(w/ shipping)*                                                                   | $5.30 |
+|      JLCPCB            | PCB *(w/ shipping)*                                                                   | $5.30 |
 |                        |                                                                                       |       |
-| **   Total**           |                                                                                       | **$182.30** |
+|      Total             |                                                                                       | **$182.30** |
