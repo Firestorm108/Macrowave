@@ -22,7 +22,7 @@ After that, I began work on the CAD. This took me the entire day, I'm writing th
 
 ![CleanShot 2025-07-06 at 00 28 32](https://github.com/user-attachments/assets/74243224-f6c6-4512-be1b-66832ab05246)
 
-After that, I worked on the mains wiring as well as the 12V and 5V power. I added a sturdy structural system as well as the lights themselves. The entire top part was done as well. 
+After that, I worked on the mains wiring as well as the 12V and 5V power. I added a sturdy structural system as well as the lights themselves. The entire top part was done as well which has a nice, large cooling fan, housing for the PCB and relays, areas to route the wires, and a cool design!
 
 ![CleanShot 2025-07-06 at 00 29 46](https://github.com/user-attachments/assets/0aafa365-4b49-43b5-87ec-fe6ff8b36fd7)
 
