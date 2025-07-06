@@ -29,3 +29,14 @@ After that, I worked on the mains wiring as well as the 12V and 5V power. I adde
 ![CleanShot 2025-07-06 at 00 30 42](https://github.com/user-attachments/assets/842713bf-7066-4fe3-beeb-b4a68444ba5d)
 
 Total Time Spent: 15 Hours (im going to sleep now)
+
+<h1>July 6th</h1>
+
+This morning, I started off by changing materials and getting some nice renders of the CAD. I really like how nice it looks, and I chose red (white would be good too) due to it reflecting the red light back to the plate.
+
+![Assembly v38 5](https://github.com/user-attachments/assets/000de188-82eb-4091-bc46-311139308a61)
+![Assembly v38 4](https://github.com/user-attachments/assets/6bb8dd27-405f-4c15-8535-a7381bf067bf)
+![Assembly v38 3](https://github.com/user-attachments/assets/19322c86-1a2a-4966-bc5a-88741f266ffa)
+![Assembly v38 2](https://github.com/user-attachments/assets/d6e9d522-4e32-416a-8f2c-bca8a3315925)
+![Assembly v38](https://github.com/user-attachments/assets/c92ed8fd-f76d-4dde-b816-7c331d9e7946)
+
