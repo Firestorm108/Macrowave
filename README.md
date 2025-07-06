@@ -22,7 +22,9 @@ Annealing is the process of heating something in a controlled way and cooling it
 
 <h1>The wiring diagram!</h1>
 
-![CleanShot 2025-07-06 at 11 19 39](https://github.com/user-attachments/assets/d65fbcc0-0d0f-4dcb-9e85-6e9853a46e60)
+![CleanShot 2025-07-06 at 12 47 22](https://github.com/user-attachments/assets/a83978bc-89b0-4fc0-b871-9527483fc3de)
+
+
 
 <h1>The BOM!</h1>
 Bill of Materials
