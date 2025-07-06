@@ -34,6 +34,7 @@ Bill of Materials
 | Category           | Item                                                                                  | Price  |
 |--------------------|---------------------------------------------------------------------------------------|--------|
 | Frame              | Regular PETG *(Already Owned)*                                                        | $0     |
+|                    | Reflective Insulation Panels                                                          | $0     |
 |                    | [12mm x 305mm Steel Rods](https://www.amazon.com/uxcell-Stainless-Steel-305mm-Working/dp/B0DKXSZ9M8/)  | $17    |
 |                    | [150mm Aluminum Disc](https://www.amazon.com/uxcell-Aluminum-Diameter-Thickness-Stamping/dp/B0DQ8H1FZG/) | $7     |
 | Control            | [12V → 5V Buck Converter](https://www.aliexpress.us/item/3256808220206305.html)        | $4     |
