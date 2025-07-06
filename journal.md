@@ -49,3 +49,5 @@ After that, I finished the wiring diagram!
 
 ![CleanShot 2025-07-06 at 10 53 06](https://github.com/user-attachments/assets/f5e452c9-7482-4ada-b4c9-0a51477ddc32)
 
+I then finalized my README, BOM, uploaded my files, double checked prices, etc. It all looks good, I should be paying ~$30 out of pocket at the most optimized BOM.
+
