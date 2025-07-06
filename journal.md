@@ -32,7 +32,7 @@ After that, I worked on the mains wiring as well as the 12V and 5V power. I adde
 
 ![CleanShot 2025-07-06 at 00 30 42](https://github.com/user-attachments/assets/842713bf-7066-4fe3-beeb-b4a68444ba5d)
 
-Total Time Spent: 15 Hours (im going to sleep now)
+Total Time Spent: 17 Hours (im going to sleep now)
 
 <h1>July 6th</h1>
 
@@ -51,3 +51,4 @@ After that, I finished the wiring diagram!
 
 I then finalized my README, BOM, uploaded my files, double checked prices, etc. It all looks good, I should be paying ~$30 out of pocket at the most optimized BOM.
 
+Total Time Spent: ~3 Hours
