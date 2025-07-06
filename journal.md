@@ -1,8 +1,14 @@
 <h1>Summary</h1>
 The MacroWave is an annealing machine that evenly heats up 3D printed parts and cools them down to strenghten them! Similar to a microwave, it emits macro wavelengths of light (even though microwaves emit LONGER waves than the macrowave- isn't that funny?).
 
+<h1>23 Hours Total</h1>
+
 <h1>July 4th</h1>
 Today I made a BOM with an overall thought process of the design of the machine. It's got features like an easy to use touch screen, 4 bulbs, a heating pad, PWM control, sensors, and a rotating bed!
+
+![2025-07-04 14-34](https://github.com/user-attachments/assets/4bb91918-5d75-418a-a7cb-1282a1569e38)
+
+
 
 Total Time Spent: 3 Hours
 
@@ -18,7 +24,7 @@ After that, I began work on the CAD. This took me the entire day, I'm writing th
 
 ![CleanShot 2025-07-06 at 00 28 32](https://github.com/user-attachments/assets/74243224-f6c6-4512-be1b-66832ab05246)
 
-After that, I worked on the mains wiring as well as the 12V and 5V power. I added a sturdy structural system as well as the lights themselves. The entire top part was done as well. 
+After that, I worked on the mains wiring as well as the 12V and 5V power. I added a sturdy structural system as well as the lights themselves. The entire top part was done as well which has a nice, large cooling fan, housing for the PCB and relays, areas to route the wires, and a cool design!
 
 ![CleanShot 2025-07-06 at 00 29 46](https://github.com/user-attachments/assets/0aafa365-4b49-43b5-87ec-fe6ff8b36fd7)
 
@@ -28,7 +34,7 @@ After that, I worked on the mains wiring as well as the 12V and 5V power. I adde
 
 ![CleanShot 2025-07-06 at 00 30 42](https://github.com/user-attachments/assets/842713bf-7066-4fe3-beeb-b4a68444ba5d)
 
-Total Time Spent: 15 Hours (im going to sleep now)
+Total Time Spent: 17 Hours (im going to sleep now)
 
 <h1>July 6th</h1>
 
@@ -45,3 +51,12 @@ After that, I finished the wiring diagram!
 
 ![CleanShot 2025-07-06 at 10 53 06](https://github.com/user-attachments/assets/f5e452c9-7482-4ada-b4c9-0a51477ddc32)
 
+I then finalized my README, BOM, uploaded my files, double checked prices, etc. It all looks good, I should be paying ~$30 out of pocket at the most optimized BOM.
+
+Updated the wiring diagram as well to add a switch for better control instead of touch. I also updated the CAD.
+
+![CleanShot 2025-07-06 at 12 40 23](https://github.com/user-attachments/assets/7e7ca5c0-8c3a-4a2c-a42e-8b50ed865b4f)
+
+![CleanShot 2025-07-06 at 12 40 57](https://github.com/user-attachments/assets/06e18e81-fd92-4e04-b5f4-49e9923c5400)
+
+Total Time Spent: ~3 Hours
