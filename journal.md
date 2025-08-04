@@ -62,3 +62,16 @@ Updated the wiring diagram as well to add a switch for better control instead of
 After that, I attempted to get the firmware going, which took WAY longer than expected especially due to the touchscreen, but all the basic logic is there. If it doesn't work it'll probably just be a couple small changes since I don't actually have the physical screen and other components right now to test. Overall, everything should be ready to be built now.
 
 Total Time Spent: ~5 Hours
+
+<h1>August 3rd</h1>
+
+I printed all the parts last night and got them together. My PCB however cannot be used, sadly because the microcontroller got bricked on arrival. There is no time to order another, so I'll be using a spare esp32 I found in my closet (luckily). I spent a good 2 hours trying to desolder the screen but in the end I had to break off the header pins. My whole room was in a fog of flux. After that, I wired up the power supply and mains AC input connector which worked great surprisingly! I have to say it was scary plugging it into the wall but when the led light on the switch lit up that was a good feeling. Anyways, the gearbox motor that spins the bed was not connected to the 3d printed gear super well. So I used my heat gun to have it shape to the shaft really well, which allowed it to spin over 5lbs of weight! (i didn't test any higher). 
+
+![IMG_3106](https://github.com/user-attachments/assets/cd6f6c2d-e133-4c7f-9077-fb4089ca08a3)
+![IMG_3112](https://github.com/user-attachments/assets/167922f4-6d2c-425c-8cf9-9a28c182a211)
+![IMG_3114](https://github.com/user-attachments/assets/850c0f64-e7e1-4879-b658-f79693d63f12)
+![IMG_3116](https://github.com/user-attachments/assets/86ac20de-7867-4948-829f-5588714258cc)
+
+Time Spent: 6 Hours
+
+
