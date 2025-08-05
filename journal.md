@@ -74,4 +74,11 @@ I printed all the parts last night and got them together. My PCB however cannot 
 
 Time Spent: 6 Hours
 
+<h1>August 4th</h1>
 
+
+Today started out well. I finished all the mains wiring and it all worked! However, the TFT display came broken and thus I had to think of a different way to provide feedback to the user. An LCD Display would've been good, but my only one doesn't use I^2C and so I'd have to connect like 15 pins which is just absurd. I don't have any other displays on me, so the only rational answer is to redesign the small pcb cover on the top to accomodate a few indicator LEDs. Such as, the material selection could have 2, heating, power, etc. I think that this will still work well.
+
+![IMG_3129](https://github.com/user-attachments/assets/a17183fa-e352-4687-8d51-15a927e300a5)
+![IMG_3137](https://github.com/user-attachments/assets/f336db05-cb00-4b61-982b-4b60fd2f6d52)
+![IMG_3138](https://github.com/user-attachments/assets/d2db13ae-9927-4e86-bf8a-63192b40f703)
