@@ -82,3 +82,7 @@ Today started out well. I finished all the mains wiring and it all worked! Howev
 ![IMG_3129](https://github.com/user-attachments/assets/a17183fa-e352-4687-8d51-15a927e300a5)
 ![IMG_3137](https://github.com/user-attachments/assets/f336db05-cb00-4b61-982b-4b60fd2f6d52)
 ![IMG_3138](https://github.com/user-attachments/assets/d2db13ae-9927-4e86-bf8a-63192b40f703)
+
+Watching B99 while working on this the whole day was pretty fun too
+
+Time Spent: 12 Hours
