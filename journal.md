@@ -86,3 +86,13 @@ Today started out well. I finished all the mains wiring and it all worked! Howev
 Watching B99 while working on this the whole day was pretty fun too
 
 Time Spent: 12 Hours
+
+<h1>August 5th</h1>
+
+I finished the project! I added the LEDs to indicate stuff, the code, and cleaned up the wiring! Not much else to say, but here's some pictures :)
+
+![IMG_3160](https://github.com/user-attachments/assets/9ec1e37c-d061-49dd-baf3-2e6c7b431c8f)
+![IMG_3163 2](https://github.com/user-attachments/assets/e2d7d1de-01cc-4a69-b214-b4709254ddb5)
+![IMG_3175](https://github.com/user-attachments/assets/740f4625-475b-43e9-a826-70ef97efe973)
+
+Time Spent: 8 Hours
