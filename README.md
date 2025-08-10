@@ -2,6 +2,8 @@
 
 ![IMG_3163 2](https://github.com/user-attachments/assets/b82ed74f-fb1c-4232-82b7-75a63ab538ad)
 
+Demo: https://www.youtube.com/shorts/_aIIx7PhhNs
+
 A smart annealing system for 3D printed functional parts! It utilizes heating features such as a heated aluminum bed and infared heating lights that allow it to get up to 80C, perfect for PLA and PETG! My 3D printed parts
 aren't always strong enough for my use cases, and I didn't want to ruin my oven by sticking my parts in there. So, I designed a cool looking annealing system that would do it better! Annealing is very effective, it can do crazy things like increase the heat resistance of PLA to 100C. It utilizes a rotating bed to evenly distribute the heat. Whatever 3D printed part you can fit on the plate, it'll easily be able to move it! Overall, it'll be an amazing machine to use for all kinds of projects in the future, and was a really fun project in itself!
 
