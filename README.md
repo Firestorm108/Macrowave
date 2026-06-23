@@ -9,7 +9,7 @@ aren't always strong enough for my use cases, and I didn't want to ruin my oven 
 
 Annealing is the process of heating something in a controlled way and cooling it in a controlled way in order to relieve stress and increase properties of the object. It's used with all kinds of materials, from metals to plastics and more!
 
-<h1>Pictures!</h1>
+<h1>Pictures</h1>
 
 ![Assembly v40](https://github.com/user-attachments/assets/96ba6657-4704-4985-aed6-d49fc6da6032)
 
@@ -17,20 +17,7 @@ Annealing is the process of heating something in a controlled way and cooling it
 
 ![CleanShot 2025-07-06 at 13 48 49](https://github.com/user-attachments/assets/3742120c-26ff-47f7-8c03-b47f6d027bf8)
 
-<h1>The PCB! (and schematic)</h1>
-
-![CleanShot 2025-07-06 at 13 38 28](https://github.com/user-attachments/assets/584e56f9-193b-41b4-9055-7b0c963a7b83)
-
-
-![CleanShot 2025-07-06 at 11 19 08](https://github.com/user-attachments/assets/6e9aea43-e051-440d-a6a6-084cc8729a48)
-
-<h1>The wiring diagram!</h1>
-
-![CleanShot 2025-07-06 at 12 47 22](https://github.com/user-attachments/assets/a83978bc-89b0-4fc0-b871-9527483fc3de)
-
-
-
-<h1>The BOM!</h1>
+<h1>The BOM</h1>
 Bill of Materials
 
 | Category           | Item                                                                                  | Price  |
